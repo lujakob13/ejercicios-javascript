@@ -10,4 +10,4 @@ function cuadrado(array){
     }//retorno la varibale resultado
     return resultado
 }
-console.log("cuadrado: ", cuadrado(numeros))
+console.log(`cuadrado de cada numero ${cuadrado(numeros)}`)
