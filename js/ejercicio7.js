@@ -18,7 +18,9 @@ function suma(valor1, valor2){
         }return nuevoArray
     // si la longitud es diferente, saltara por pantalla un mensaje
     }else{
-        console.log("los arrays no son de la misma longitud")
+        // templete string
+        console.log(`los arrays no son de la misma longitud`)
     }
 }
+// templete string
 console.log(`la suma de cada elemento ${suma(array1, array2)}`)
