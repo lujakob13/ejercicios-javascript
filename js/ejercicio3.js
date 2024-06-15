@@ -18,4 +18,4 @@ function propiedades(valor){
 // guardo el resultado en una variable
 let resultado = propiedades(numero)
 // templete string
-console.log(`el cuadrado es ${resultado.cuadrado}, la raiz es ${resultado.raiz} y el valor abosluto es ${resultado.ValorAbsoluto}`)
+console.log(`el cuadrado es ${resultado.cuadrado}, la raiz es ${resultado.raiz} y el valor absoluto es ${resultado.ValorAbsoluto}`)
