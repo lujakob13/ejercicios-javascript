@@ -16,6 +16,6 @@ En este repositorio se encontraran 7 actividades para realizar con el lenguaje J
 7)Escribe una función que reciba dos arrays de la misma longitud y devuelva un nuevo array con la suma de los elementos correspondientes. 
   Utiliza un bucle for para iterar sobre los índices de los arrays.
 
-En el archivo "index.html" encontrar la estructura de HTML y abajo del cierre de la etiqueta "body", encontrarn unas etiquetas "scripts", una por cada actividad que realize.
+En el archivo "index.html" encontrar la estructura de HTML y abajo del cierre de la etiqueta "body", encontraran unas etiquetas "scripts", una por cada actividad que realize.
 Luego en la carpeta "js", encontraran 7 archivos, cada uno correspondiente a la actividad en donde encontraran el codigo que aplique para su desarrollo y comentarios en cada linea en donde 
 explico de forma resumida que es lo que quise hacer.
